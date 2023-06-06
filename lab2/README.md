@@ -1,4 +1,4 @@
-Голуб Володимир Володимирович,КВ-22мп,
+Байдаус Михайло,КВ-22мп,
 
 Мета: навчитись користуватись засобами тестування Web-інтерфейсу користувача за допомогою фреймворка модульного тестування Javascript/Jest/Vue-Test-Utils, а також End-To-End (системного) тестування за допомогою фреймворку cypress.
 
@@ -6,4 +6,4 @@
 
 Інструменти розробки: VS Code, Javascript/VueJS/Jest, cypress.io
 
-Звіт : https://docs.google.com/document/d/1291IxPCYgxPZa9hpM6_6c-2509pxZhdKRTMedLllLiI/edit?usp=sharing
+Звіт : https://docs.google.com/document/d/1XmrmOXY6Oy8xz51OFoZB_M81-2A5CcuyK_i4sxdlA-s/edit?usp=sharing
